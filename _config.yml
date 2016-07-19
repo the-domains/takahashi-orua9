@@ -1,0 +1,14 @@
+layout_spectrum: 0.7577429935336113
+typography_spectrum: 0.1384713901206851
+color:
+  brandStrength: 0.6107545215636492
+  lightness: 0.8297860694583505
+  saturation: 0.9743034648708999
+  rhythmicContrast: 0.6578721127007157
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: takahashi
